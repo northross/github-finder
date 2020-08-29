@@ -4,7 +4,6 @@
 
 #### This Github Finder can:
 
-- Using a 3rd party API
 - Use search to find members of Github
 - Allow access to a single user page
 - Displays various information about a single user, including: five recent repos, amount of repos, username, name, picture, location, website, link to full Github profile, and even whether they are looking for work.

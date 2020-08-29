@@ -1,3 +1,26 @@
+# Github Finder
+
+### This project was created for the practice of creating a functional React Application from start to deployment on Netlify.
+
+#### This Github Finder can:
+
+- Using a 3rd party API
+- Use search to find members of Github
+- Allow access to a single user page
+- Displays various information about a single user, including: five recent repos, amount of repos, username, name, picture, location, website, link to full Github profile, and even whether they are looking for work.
+
+## Github Finder - Home UI
+
+<img src="https://imgur.com/MKpVseo.png" width="800">
+
+## Github Finder - Search Results
+
+<img src="https://imgur.com/ucoDO9U.png" width="800">
+
+## Github Finder - Single User Page
+
+<img src="https://imgur.com/4tjUl0o.png" width="800">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
